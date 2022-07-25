@@ -1,5 +1,7 @@
-#include <iostream>
+// codeforces problem no- 231A
+// problem name- team
 
+#include <iostream>
 using namespace std;
 
 int main()
