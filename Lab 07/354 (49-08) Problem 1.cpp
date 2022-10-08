@@ -1,3 +1,6 @@
+//Problem Name: Nearly Lucky Number
+//Problem No: 110A
+
 #include <iostream>
 #include <string>
 using namespace std;
